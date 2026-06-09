@@ -21,6 +21,8 @@ vless://ec8c34f4-3576-4138-b847-61d177367e09@ru-2.videoproeditor.com:443?securit
 
 vless://472cefc3-afc9-494e-a3a2-caad057a9abe@185.94.165.47:443?security=reality&encryption=none&echfq=none&pbk=tQo-3pPUFf_OBywQanyHxwd7IbABWak5Ucprp2xzjkE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=7352d990#🇳🇱 Netherlands
 
+vless://0687273a-23e8-4735-97c2-db4d88cc0f6d@78.159.240.174:443?mode=gun&security=tls&encryption=none&authority=&echfq=none&fp=edge&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.16.speed-storage.ru#🇪🇺 Europe
+
 vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&host=Itsrezu2.dr-ping.com&fp=chrome&allowinsecure=0&type=xhttp&sni=Itsrezu2.dr-ping.com#🇨🇾 Cyprus
 
 vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?security=reality&encryption=none&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#🇷🇺 Russia
