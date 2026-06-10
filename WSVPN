@@ -9,6 +9,8 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=by02.botovod.space#🇧🇾 Belarus
+
 vless://ff1a6597-2160-439e-a0a2-399d1affc84c@fi1.americanprime.vip:443?security=reality&encryption=none&echfq=none&pbk=-IS-l55pJQsLn4TX4wQkU9h1tWJccn5-g3yle25dNww&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi1.americanprime.vip&sid=2d13bb99#🇫🇮 Finland
 
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&echfq=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&host=www.amd.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Estonia
