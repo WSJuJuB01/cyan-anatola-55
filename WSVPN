@@ -9,7 +9,7 @@ vless://hello00000hksvj000@WSVPN00000000000-0000000:443?security=tls&encryption=
 
 vless://00000000-0000000-000000000@no:10?security=tls&encryption=0&alpn=h2,http/1.1&echfq=none&headerType=none&fp=randomized&allowinsecure=0&type=tcp&sni=max.comedy#Обычные сервера⬇️
 
-vless://6d199f80-7539-4eae-9a97-554657ed33ab@bypass.fi-m247-01.com:8443?security=reality&encryption=none&echfq=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f45c9665f3261108#🇫🇮 Finland
+vless://ff1a6597-2160-439e-a0a2-399d1affc84c@fi1.americanprime.vip:443?security=reality&encryption=none&echfq=none&pbk=-IS-l55pJQsLn4TX4wQkU9h1tWJccn5-g3yle25dNww&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi1.americanprime.vip&sid=2d13bb99#🇫🇮 Finland
 
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&echfq=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&host=www.amd.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Estonia
 
@@ -35,16 +35,16 @@ vless://000000000@000000000000-0000000-0000000:443?security=none&encryption=0000
 
 vless://3a836fe1-8de7-489b-b189-8f0d3bf31ec9@185.229.9.8:8443?security=reality&encryption=none&echfq=none&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323acb#🇪🇺 🏳 White lists¹
 
-vless://7aca9b55-fdad-44bb-8711-fa468d47e9af@51.250.24.232:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists²
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?security=reality&encryption=none&echfq=none&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vk.ru#🇪🇺 🏳 White lists²
 
-vless://7aca9b55-fdad-44bb-8711-fa468d47e9af@51.250.108.162:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists³
+vless://243d0037-5892-4abd-8917-49b6940aff18@51.250.104.246:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists³
 
-vless://7aca9b55-fdad-44bb-8711-fa468d47e9af@51.250.104.246:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁴
+vless://243d0037-5892-4abd-8917-49b6940aff18@51.250.97.18:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁴
 
-vless://0f73b234-838f-4760-881e-f1cfa5061f93@51.250.104.246:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁵
+vless://243d0037-5892-4abd-8917-49b6940aff18@51.250.103.104:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁵
 
-vless://3ce8cb5f-21f5-4140-9655-f163615b8405@51.250.103.104:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁶
+vless://e52ce61d-57d1-40a4-ae72-9c4285f806b0@51.250.18.249:443?security=reality&encryption=none&echfq=none&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e4aa362b5f9d07d7#🇷🇺 🏳 White lists⁶
 
-vless://7aca9b55-fdad-44bb-8711-fa468d47e9af@51.250.17.80:443?security=reality&encryption=none&echfq=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#🇩🇪 🏳 White lists⁷
+vless://e52ce61d-57d1-40a4-ae72-9c4285f806b0@51.250.107.170:443?security=reality&encryption=none&echfq=none&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e4aa362b5f9d07d7#🇷🇺 🏳 White lists⁷
 
 vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.221:8443?mode=multi&security=reality&encryption=none&authority=&echfq=none&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&fp=firefox&allowinsecure=0&type=grpc&serviceName=%2Fapi&sni=sfera.x5.ru&sid=3722621913893e97#🇷🇺 🏳 White lists⁸
