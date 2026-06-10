@@ -30,3 +30,5 @@ vless://e63d4973-5b3e-4e22-a0fb-dcc393bffdfb@51.250.43.93:443?security=reality&e
 vless://e63d4973-5b3e-4e22-a0fb-dcc393bffdfb@51.250.43.93:443?security=reality&encryption=none&echfq=none&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇪🇪 🏳 White lists⁴
 
 vless://e63d4973-5b3e-4e22-a0fb-dcc393bffdfb@51.250.43.93:443?security=reality&encryption=none&echfq=none&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇪🇪 🏳 White lists⁵
+
+vless://429fb070-1b06-498e-a4c2-3f38f07c116a@62.152.60.56:7443?security=reality&alpn=h3&encryption=&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=45ba91f179ad1f26#🇩🇪 🏳 White lists⁶
